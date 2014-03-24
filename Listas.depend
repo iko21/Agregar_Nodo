@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1391711155 source:/home/turupawn/Projects/Codeblocks/Archivos/main.cpp
+	<iostream>
+	<fstream>
+	"Lista.h"
+
+1391710076 /home/turupawn/Projects/Codeblocks/Archivos/Nodo.h
+
+1391710106 source:/home/turupawn/Projects/Codeblocks/Archivos/Nodo.cpp
+	"Nodo.h"
+
+1391711174 source:/home/turupawn/Projects/Codeblocks/Archivos/Lista.cpp
+	"Lista.h"
+
+1391710852 /home/turupawn/Projects/Codeblocks/Archivos/Lista.h
+	<iostream>
+	"Nodo.h"
+
+1392141062 source:/home/mac21/Desktop/programaing/Listas-master/Lista.cpp
+	"Lista.h"
+
+1392056915 /home/mac21/Desktop/programaing/Listas-master/Lista.h
+	<iostream>
+	"Nodo.h"
+
+1392053388 /home/mac21/Desktop/programaing/Listas-master/Nodo.h
+
+1392053388 source:/home/mac21/Desktop/programaing/Listas-master/Nodo.cpp
+	"Nodo.h"
+
+1392141730 source:/home/mac21/Desktop/programaing/Listas-master/main.cpp
+	<iostream>
+	<fstream>
+	"Lista.h"
+
